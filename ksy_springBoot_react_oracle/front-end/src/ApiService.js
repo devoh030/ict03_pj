@@ -7,8 +7,8 @@ import axios from 'axios';
 // pckage.json => "axios": "^1.3.5"
 //*스프링부트 톰캣이 실행되어 있어야 한다
 
-const MEMBER_BASE_URL = "http://localhost:8081/member";
-
+//const MEMBER_BASE_URL = "http://localhost:8081/member";
+const MEMBER_BASE_URL = "http://43.203.255.56:8081/member";
 class ApiService {
 
     // list
