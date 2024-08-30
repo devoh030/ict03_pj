@@ -9,6 +9,7 @@ import axios from 'axios';
 
 //const MEMBER_BASE_URL = "http://localhost:8081/member";
 const MEMBER_BASE_URL = "http://43.203.255.56:8081/member";
+
 class ApiService {
 
     // list
